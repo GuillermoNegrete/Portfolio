@@ -1,0 +1,80 @@
+KEYWORD,RISK_CATEGORY,MATCH_TYPE,DESCRIPTION
+white noise,Ambient / Noise,SUBSTRING,English: White noise profiles
+ruido blanco,Ambient / Noise,SUBSTRING,Spanish: White noise
+ruido branco,Ambient / Noise,SUBSTRING,Portuguese: White noise
+weisses rauschen,Ambient / Noise,SUBSTRING,German: White noise
+bruit blanc,Ambient / Noise,SUBSTRING,French: White noise
+ホワイトノイズ,Ambient / Noise,SUBSTRING,Japanese: White noise
+pink noise,Ambient / Noise,SUBSTRING,English: Pink noise
+ruido rosa,Ambient / Noise,SUBSTRING,Spanish/Portuguese: Pink noise
+brown noise,Ambient / Noise,SUBSTRING,English: Brown noise
+ruido marron,Ambient / Noise,SUBSTRING,Spanish: Brown noise
+ruido marrom,Ambient / Noise,SUBSTRING,Portuguese: Brown noise
+rain,Ambient / Noise,SUBSTRING,English: Rain elements
+sonido de lluvia,Ambient / Noise,SUBSTRING,Spanish: Rain sounds
+som de chuva,Ambient / Noise,SUBSTRING,Portuguese: Rain sounds
+regengeräusche,Ambient / Noise,SUBSTRING,German: Rain sounds
+bruit de pluie,Ambient / Noise,SUBSTRING,French: Rain sounds
+雨の音,Ambient / Noise,SUBSTRING,Japanese: Rain sounds
+ocean,Ambient / Noise,SUBSTRING,English: Ocean elements
+olas del mar,Ambient / Noise,SUBSTRING,Spanish: Ocean waves
+ondas do mar,Ambient / Noise,SUBSTRING,Portuguese: Ocean waves
+meeresrauschen,Ambient / Noise,SUBSTRING,German: Ocean waves
+vagues de l ocean,Ambient / Noise,SUBSTRING,French: Ocean waves
+波の音,Ambient / Noise,SUBSTRING,Japanese: Ocean waves
+meditation,Ambient / Noise,SUBSTRING,English: Meditation tracks
+meditacion,Ambient / Noise,SUBSTRING,Spanish: Meditation
+meditacao,Ambient / Noise,SUBSTRING,Portuguese: Meditation
+瞑想,Ambient / Noise,SUBSTRING,Japanese: Meditation
+sleep,Ambient / Noise,SUBSTRING,English: Sleep tracks
+para dormir,Ambient / Noise,SUBSTRING,Spanish/Portuguese: For sleeping
+schlafmusik,Ambient / Noise,SUBSTRING,German: Sleep music
+musique pour dormir,Ambient / Noise,SUBSTRING,French: Music for sleeping
+睡眠用,Ambient / Noise,SUBSTRING,Japanese: For sleeping
+relaxing,Ambient / Noise,SUBSTRING,English: Relaxing tags
+relajante,Ambient / Noise,SUBSTRING,Spanish: Relaxing
+relaxante,Ambient / Noise,SUBSTRING,Portuguese: Relaxing
+entspannung,Ambient / Noise,SUBSTRING,German: Relaxation
+relaxation,Ambient / Noise,SUBSTRING,French: Relaxation
+リラックス,Ambient / Noise,SUBSTRING,Japanese: Relaxing
+ambient,Ambient / Noise,SUBSTRING,English: Ambient textures
+ambiente,Ambient / Noise,SUBSTRING,Spanish/Portuguese: Ambient text
+soundscape,Ambient / Noise,SUBSTRING,English: Soundscapes
+paisaje sonoro,Ambient / Noise,SUBSTRING,Spanish: Soundscape
+asmr,Ambient / Noise,SUBSTRING,Global: Autonomous Sensory Meridian Response
+ost,Video Game / Soundtrack,WORD_BOUNDARY,Global English: Original Soundtrack acronym
+soundtrack,Video Game / Soundtrack,WORD_BOUNDARY,English: Soundtrack
+banda sonora,Video Game / Soundtrack,WORD_BOUNDARY,Spanish: Soundtrack
+trilha sonora,Video Game / Soundtrack,WORD_BOUNDARY,Portuguese: Soundtrack
+bande originale,Video Game / Soundtrack,WORD_BOUNDARY,French: Original soundtrack
+サウンドトラック,Video Game / Soundtrack,SUBSTRING,Japanese: Soundtrack
+bgm,Video Game / Soundtrack,WORD_BOUNDARY,Global: Background music acronym
+chiptune,Video Game / Soundtrack,WORD_BOUNDARY,Global: Retro gaming synthesis
+8-bit,Video Game / Soundtrack,WORD_BOUNDARY,Global: Retro gaming emulation
+gameplay,Video Game / Soundtrack,SUBSTRING,English: Gameplay audio
+juego de video,Video Game / Soundtrack,SUBSTRING,Spanish: Video game description
+videojogo,Video Game / Soundtrack,SUBSTRING,Portuguese: Video game description
+videospiel,Video Game / Soundtrack,SUBSTRING,German: Video game description
+jeu video,Video Game / Soundtrack,SUBSTRING,French: Video game description
+ゲーム音楽,Video Game / Soundtrack,SUBSTRING,Japanese: Game music
+loop,Non-Exclusive Elements,WORD_BOUNDARY,English: Production loops
+bucle,Non-Exclusive Elements,WORD_BOUNDARY,Spanish: Production loops
+sample pack,Non-Exclusive Elements,WORD_BOUNDARY,English: Sample pack
+paquete de muestras,Non-Exclusive Elements,SUBSTRING,Spanish: Sample pack
+type beat,Non-Exclusive Elements,WORD_BOUNDARY,Global: Leased backing instrumentals
+royalty-free,Non-Exclusive Elements,WORD_BOUNDARY,English: Royalty-free stock
+libre de regalias,Non-Exclusive Elements,SUBSTRING,Spanish: Royalty-free
+drum kit,Non-Exclusive Elements,WORD_BOUNDARY,Global: Production drum component files
+sfx,Non-Exclusive Elements,WORD_BOUNDARY,Global: Sound effects acronym
+sound effect,Non-Exclusive Elements,WORD_BOUNDARY,English: Sound effect
+efecto de sonido,Non-Exclusive Elements,SUBSTRING,Spanish: Sound effect
+efeito de som,Non-Exclusive Elements,SUBSTRING,Portuguese: Sound effect
+effets sonores,Non-Exclusive Elements,SUBSTRING,French: Sound effects
+効果音,Non-Exclusive Elements,SUBSTRING,Japanese: Sound effects
+megamix,Compilations / Mixes,SUBSTRING,Global: Long-form consecutive mixes
+dj mix,Compilations / Mixes,SUBSTRING,Global: Seamless live DJ tracking
+continuous mix,Compilations / Mixes,SUBSTRING,English: Continuous album flow
+mix continuo,Compilations / Mixes,SUBSTRING,Spanish: Continuous mix
+mashup,Compilations / Mixes,SUBSTRING,Global: Multi-artist bootleg arrangements
+full album,Compilations / Mixes,SUBSTRING,English: Consolidated complete album
+album completo,Compilations / Mixes,SUBSTRING,Spanish/Portuguese: Complete album
