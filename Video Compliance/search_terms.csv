@@ -1,0 +1,292 @@
+﻿Title,Title,Title,Title,,Lyric Video,Live Video,Music Video
+*Subtitled*,*Music Video*,*Lyric*,*Live at*,,%Lyric Video,Live at, आधिकारिक वीडियो
+*Subs*,*Official Video*,*Letra*,*Live From*,,歌词视频,Live From, అధికారిక వీడియో
+*Vietsub*,*Video Oficiel*,*Lyriikkavideo*,*Live in*,,गीत वीडियो,Live in, अधिकृत व्हिडिओ
+*Engsub*,*MV*,*Lyrics*,*Acoustic*,,Video con letra,Acoustic, ಅಧಿಕೃತ ವಿಡಿಯೋ
+*Karaoke*,*Offizielles Video*,*Letras*,*Directo*,,Vidéo avec paroles,Directo, அதிகாரப்பூர்வ வீடியோ
+*Visualizer*,*[VIDEO]*,*Officiel Lyrikvideo*,*Ao vivo*,,فيديو كلمات الأغنية,Ao vivo, ഔദ്യോഗിക വീഡിയോ
+*Visualiser*,*videoclip oficial*,*Lyric Video*,*Session*,,গানের কথা সহ ভিডিও,Session, Επίσημο βίντεο
+*Official Visual*,*Clipe Oficial*,*歌词视频*,*Acústico*,,Клип с текстом песни,Acústico, فيديو موسيقي
+*Audio*,*Video Oficial*,*गीत वीडियो*,*En Vivo*,,Vídeo com letra,En Vivo, فيديو موسيقي
+*Instrumental*,*VideoClip*,*Video con letra*,*Live @*,,گیت ویڈیو / نغمہ ویڈیو,Live @, فيديو رسمي
+*Audio Officiel*,*(Video)*,*Vidéo avec paroles*,*Sessions*,,Video lirik,Sessions, فيديو رسمي
+*Full Album*,*(Clip Officiel)*,*فيديو كلمات الأغنية*,*Live Video*,,Liedtext-Video,Live Video, 공식 비디오
+*Full Album Stream*,*Clip Officiel*,*গানের কথা সহ ভিডিও*,*Official Live Video*,,歌詞ビデオ,Official Live Video, 官方视频
+*Official Stream*,*Vídeo Oficial*,*Клип с текстом песни*,*Officiel Live Video*,,Video ya maneno ya wimbo,Officiel Live Video, இசை வீடியோ
+*Áudio Oficial*,*Video clip*,*Vídeo com letra*,*Performance*,,गीताचा व्हिडिओ,Performance, মিউজিক ভিডিও
+*Vinyl Video*,*Virallinen musiikkivideo*,*گیت ویڈیو / نغمہ ویڈیو*,*vidéo acoustique*,,లిరిక్ వీడియో,vidéo acoustique, มิวสิควิดีโอ
+*Aúdio*,*Vidéo Officielle*,*Video lirik*,*Acoustique*,,Şarkı sözü videosu,Acoustique, Μουσικό βίντεο
+*Original Mix*,*Vidéo Officielle*,*Liedtext-Video*,*Festival*,,가사 비디오,Festival, میوزک ویڈیو
+*Extended Mix*,*titre officie*,*歌詞ビデオ*,*Clip officiel - Live*,,பாடல் வரிகளுடன் வீடியோ,Clip officiel - Live, Музикален видеоклип
+*Club Mix*,*Officiell Video*,*Video ya maneno ya wimbo*,*(Live)*,,Video lời bài hát,(Live), Музичне відео
+*Offizielle Single*,*Official Musiv Video*,*गीताचा व्हिडिओ*,*Live On*,,Video con testo,Live On, Музыкальное видео
+*Offizieller Albumplayer*,*Oficiální video*,*లిరిక్ వీడియో*,*Live Au*,,Bidiyon kalmomin waka,Live Au, మ్యూజిక్ వీడియో
+*Vizualizer*,*Offizielles Musikvideo*,*Şarkı sözü videosu*,*Songkick Live*,,วิดีโอเนื้อเพลง,Songkick Live, 뮤직비디오
+*Offizielles Medley*,*Officiel Musikvideo*,*가사 비디오*,*unplugged*,,ગીત વિડિઓ,unplugged, ミュージックビデオ
+*[Static]*,*ПРЕМЬЕРА КЛИПА*,*பாடல் வரிகளுடன் வீடியோ*,*Video live*,,ویدیو با متن ترانه ,Video live, آفیشل ویڈیو
+*Albúm Completo*,* आधिकारिक वीडियो*,*Video lời bài hát*,*(Live*,,Wideo z tekstem piosenki,(Live, オフィシャルビデオ
+*#0*,* అధికారిక వీడియో*,*Video con testo*,*[live*,,ಹಾಡಿನ ಪದಗಳ ವಿಡಿಯೋ,[live, Официален видеоклип
+*#1*,* अधिकृत व्हिडिओ*,*Bidiyon kalmomin waka*,*คอนเสิร์ต*,,പാട്ടിന്റെ വരികളുള്ള വീഡിയോ,คอนเสิร์ต, Официальное видео
+*#2*,* ಅಧಿಕೃತ ವಿಡಿಯೋ*,*วิดีโอเนื้อเพลง*,*Acustico*,,Відео з текстом пісні,Acustico, Офіційне відео
+*#3*,* அதிகாரப்பூர்வ வீடியோ*,*ગીત વિડિઓ*,*EDC*,,Liriko video / Video ng kanta lyrics,EDC, অফিসিয়াল ভিডিও
+*#4*,* ഔദ്യോഗിക വീഡിയോ*,*ویدیو با متن ترانه *,*Officiel Live-video*,,သီချင်းစာသားဗီဒီယို,Officiel Live-video, संगीत वीडियो
+*#5*,* Επίσημο βίντεο*,*Wideo z tekstem piosenki*,*piano version*,,Videoclip cu versuri,piano version, संगीत व्हिडिओ
+*#6*,* فيديو موسيقي*,*ಹಾಡಿನ ಪದಗಳ ವಿಡಿಯೋ*,*akustično*,,Video jeung lirik,akustično, സംഗീത വീഡിയോ
+*#7*,* فيديو موسيقي*,*പാട്ടിന്റെ വരികളുള്ള വീഡിയോ*,*Versión acústica*,,Fídíò ọrọ orin,Versión acústica, ಸಂಗೀತ ವೀಡಿಯೊ
+*#8*,* فيديو رسمي*,*Відео з текстом пісні*,,,Qo‘shiq matni videosi,, Videoclipe
+*#9*,* فيديو رسمي*,*Liriko video / Video ng kanta lyrics*,,,Liedtekstvideo,, Video musical
+*#10*,* 공식 비디오*,*သီချင်းစာသားဗီဒီယို*,,,گيت وڊيو (Geet video),, Video musicale
+*Live Stream*,* 官方视频*,*Videoclip cu versuri*,,,गीत भिडियो (Geet Video),, Zenei videó 
+*karaoke*,* இசை வீடியோ*,*Video jeung lirik*,,,ගීත පද විඩීයෝව,, วิดีโออย่างเป็นทางการ
+*Subtitled*,* মিউজিক ভিডিও*,*Fídíò ọrọ orin*,,,វីដេអូបទចម្រៀង,, 音乐视频
+*Subs*,* มิวสิควิดีโอ*,*Qo‘shiq matni videosi*,,,Βίντεο με στίχους,, Clip vidéo / Vidéoclip
+*Vietsub*,* Μουσικό βίντεο*,*Liedtekstvideo*,,,Liriko nga video,, Hivatalos videó
+*Engsub*,* میوزک ویڈیو*,*گيت وڊيو (Geet video)*,,,የዘፈኑ ቃላት ቪዲዮ,, Music Video
+*Blog*,* Музикален видеоклип*,*गीत भिडियो (Geet Video)*,,,Lahatsary misy tononkira,, Music video
+*Vlog*,* Музичне відео*,*ගීත පද විඩීයෝව*,,,Fiidiyow erayada heesta,, Musikvideo
+*Trailer*,* Музыкальное видео*,*វីដេអូបទចម្រៀង*,,,Kanema wokhala ndi mawu a nyimbo,, Musikvideo
+*BTS*,* మ్యూజిక్ వీడియో*,*Βίντεο με στίχους*,,,Viidiyoo jechoota sirba,, Muziekvideo
+*Behind the*,* 뮤직비디오*,*Liriko nga video*,,,Mahnı sözləri videosu,, Müzik videosu
+*Podcast*,* ミュージックビデオ*,*የዘፈኑ ቃላት ቪዲዮ*,,,Vîdyo bi gotinên stranê,, Official Video
+*About the song*,* آفیشل ویڈیو*,*Lahatsary misy tononkira*,,,Vidio nke okwu abụ,, Official video
+*About the track*,* オフィシャルビデオ*,*Fiidiyow erayada heesta*,,,Видео са текстом песме,, Officiële video
+*Interview*,* Официален видеоклип*,*Kanema wokhala ndi mawu a nyimbo*,,,Lyric,, Officiell video
+*Episode*,* Официальное видео*,*Viidiyoo jechoota sirba*,,,Letra,, Offizielles Video
+*Ep.*,* Офіційне відео*,*Mahnı sözləri videosu*,,,Lyriikkavideo,, Oficiální video
+*Challenge*,* অফিসিয়াল ভিডিও*,*Vîdyo bi gotinên stranê*,,,Lyrics,, Oficjalny teledysk
+*Recap*,* संगीत वीडियो*,*Vidio nke okwu abụ*,,,Letras,, Resmi video
+*Track x Track*,* संगीत व्हिडिओ*,*Видео са текстом песме*,,,Officiel Lyrikvideo,, Teledysk
+*Track by Track*,* സംഗീത വീഡിയോ*,*Lyric*,,,,, Video ca nhạc
+*Making of*,* ಸಂಗೀತ ವೀಡಿಯೊ*,*Letra*,,,,, Video chính thức
+*Unboxing*,* Videoclipe*,*Lyriikkavideo*,,,,, Video musik
+*Documentary*,* Video musical*,*Lyrics*,,,,, Video musik
+*Commentary*,* Video musicale*,*Letras*,,,,, Vidéo officielle
+*Reactions*,* Zenei videó *,*Officiel Lyrikvideo*,,,,, Video oficial
+*React*,* วิดีโออย่างเป็นทางการ*,,,,,, Vídeo oficial
+*Documantation*,* 音乐视频*,,,,,, Video resmi
+*Capítulo*,* Clip vidéo / Vidéoclip*,,,,,, Video resmi
+*Documental*,* Hivatalos videó*,,,,,, Video ufficiale
+*Q & A*,* Music Video*,,,,,, Videoclip
+*Q and A*,* Music video*,,,,,, Videoclip oficial
+*Q&A*,* Musikvideo*,,,,,, Videoklip
+*ฟังยาวต่อเนื่อง*,* Musikvideo*,,,,,,ādhikārik vīḍiyo
+*Webisode*,* Muziekvideo*,,,,,,adhikārika vīḍiyō
+*Promotional Video*,* Müzik videosu*,,,,,,adhikṛt vhiḍiyo
+*Playback*,* Official Video*,,,,,,adhikṛta viḍiyō
+*Vinyl*,* Official video*,,,,,,atikārappūrvam vīṭiyō
+*Tutorial*,* Officiële video*,,,,,,audyōgika viḍiyō
+*Track Chat*,* Officiell video*,,,,,,epísimo víndeo
+*chorégraphie*,* Offizielles Video*,,,,,,fidyu musiqi
+*choreography*,* Oficiální video*,,,,,,fidyu musiqi
+*编舞 *,* Oficjalny teledysk*,,,,,,fidyu rasmi
+*coreografía*,* Resmi video*,,,,,,fidyu rasmi
+*coreografia*,* Teledysk*,,,,,,gongsik bidio
+*振り付け*,* Video ca nhạc*,,,,,,guānfāng shìpín
+*coreografia*,* Video chính thức*,,,,,,isai vidiyo
+*koreografi*,* Video musik*,,,,,,miujik video
+*Making-of*,* Video musik*,,,,,,miwsik-widīō
+*Freestyle*,* Vidéo officielle*,,,,,,mousikó vínteo
+*Commented*,* Video oficial*,,,,,,music video
+*Épisode*,* Vídeo oficial*,,,,,,muzikalen videoklip
+*Reportage*,* Video resmi*,,,,,,muzychne video
+*behind-the-scenes*,* Video resmi*,,,,,,muzykal'noye video
+*kausi*,* Video ufficiale*,,,,,,myūjik vidiyo
+*Docu*,* Videoclip*,,,,,,myujikbidio
+*Video Diary*,* Videoclip oficial*,,,,,,myūjikku bideo
+*mini-doc*,* Videoklip*,,,,,,official video
+*Bailes*,*ādhikārik vīḍiyo*,,,,,,ofisharu bideo
+*chats*,*adhikārika vīḍiyō*,,,,,,ofitsialen videoklip
+*chat*,*adhikṛt vhiḍiyo*,,,,,,ofitsial'noye video
+*conversation*,*adhikṛta viḍiyō*,,,,,,ofitsiine video
+*speaks*,*atikārappūrvam vīṭiyō*,,,,,,ophisiyāl bhiḍiō
+*teaser*,*audyōgika viḍiyō*,,,,,,sangeet video
+*華納官方中字版*,*epísimo víndeo*,,,,,,sangit vidiyo
+*Parte 1*,*fidyu musiqi*,,,,,,saṅgīta viḍiyō
+*Parte 2*,*fidyu musiqi*,,,,,,saṅgīta vīḍiyo
+*Parte 3*,*fidyu rasmi*,,,,,,Vídeo de música
+*Parte 4*,*fidyu rasmi*,,,,,,Videoclip
+*Parte 5*,*gongsik bidio*,,,,,,Videoclip
+*Parte 6*,*guānfāng shìpín*,,,,,,Videóklip
+*Parte 7*,*isai vidiyo*,,,,,,widīō yāng pen thāng kān
+*Parte 8*,*miujik video*,,,,,,yīnyuè shìpín
+*Parte 9*,*miwsik-widīō*,,,,,,
+*Parte 10*,*mousikó vínteo*,,,,,,
+*Parte 0*,*music video*,,,,,,
+*Parte0*,*muzikalen videoklip*,,,,,,
+*Parte1*,*muzychne video*,,,,,,
+*Parte2*,*muzykal'noye video*,,,,,,
+*Parte3*,*myūjik vidiyo*,,,,,,
+*Parte4*,*myujikbidio*,,,,,,
+*Parte5*,*myūjikku bideo*,,,,,,
+*Parte6*,*official video*,,,,,,
+*Parte7*,*ofisharu bideo*,,,,,,
+*Parte8*,*ofitsialen videoklip*,,,,,,
+*Parte9*,*ofitsial'noye video*,,,,,,
+*Parte10*,*ofitsiine video*,,,,,,
+*EP 0*,*ophisiyāl bhiḍiō*,,,,,,
+*EP 1*,*sangeet video*,,,,,,
+*EP 2*,*sangit vidiyo*,,,,,,
+*EP 3*,*saṅgīta viḍiyō*,,,,,,
+*EP 4*,*saṅgīta vīḍiyo*,,,,,,
+*EP 5*,*Vídeo de música*,,,,,,
+*EP 6*,*Videoclip*,,,,,,
+*EP 0*,*Videoclip*,,,,,,
+*EP 8*,*Videóklip*,,,,,,
+*EP 9*,*widīō yāng pen thāng kān*,,,,,,
+*EP 10*,*yīnyuè shìpín*,,,,,,
+*Part 1*,,,,,,,
+*Part 2*,,,,,,,
+*Part 3*,,,,,,,
+*Part 4*,,,,,,,
+*Part 5*,,,,,,,
+*Part 6*,,,,,,,
+*Part 7*,,,,,,,
+*Part 8*,,,,,,,
+*Part 9*,,,,,,,
+*Part 10*,,,,,,,
+*Part 0*,,,,,,,
+*Part0*,,,,,,,
+*Part1*,,,,,,,
+*Part2*,,,,,,,
+*Part3*,,,,,,,
+*Part4*,,,,,,,
+*Part5*,,,,,,,
+*Part6*,,,,,,,
+*Part7*,,,,,,,
+*Part8*,,,,,,,
+*Part9*,,,,,,,
+*Part10*,,,,,,,
+*Vol 0*,,,,,,,
+*Vol 1*,,,,,,,
+*Vol 2*,,,,,,,
+*Vol 3*,,,,,,,
+*Vol 4*,,,,,,,
+*Vol 5*,,,,,,,
+*Vol 6*,,,,,,,
+*Vol 7*,,,,,,,
+*Vol 8*,,,,,,,
+*Vol 9*,,,,,,,
+*Vol 10*,,,,,,,
+*Vol 11*,,,,,,,
+*Vol 12*,,,,,,,
+*Vol 13*,,,,,,,
+*Vol 14*,,,,,,,
+*Vol 15*,,,,,,,
+*Vol 16*,,,,,,,
+*Vol 17*,,,,,,,
+*Vol 18*,,,,,,,
+*Vol 19*,,,,,,,
+*Vol 20*,,,,,,,
+*Vol 21*,,,,,,,
+*Vol0*,,,,,,,
+*Vol1*,,,,,,,
+*Vol2*,,,,,,,
+*Vol3*,,,,,,,
+*Vol4*,,,,,,,
+*Vol5*,,,,,,,
+*Vol6*,,,,,,,
+*Vol7*,,,,,,,
+*Vol8*,,,,,,,
+*Vol9*,,,,,,,
+*Vol10*,,,,,,,
+*S05E03*,,,,,,,
+*S05E04*,,,,,,,
+*S05E05*,,,,,,,
+*S05E06*,,,,,,,
+*S05E07*,,,,,,,
+*S05E08*,,,,,,,
+*S05E09*,,,,,,,
+*S05E10*,,,,,,,
+*S05E02*,,,,,,,
+*S05E03*,,,,,,,
+*S05E04*,,,,,,,
+*S05E00*,,,,,,,
+*S05E01*,,,,,,,
+*S02E00*,,,,,,,
+*S02E01*,,,,,,,
+*S02E02*,,,,,,,
+*S02E03*,,,,,,,
+*S02E04*,,,,,,,
+*S02E05*,,,,,,,
+*S02E06*,,,,,,,
+*S02E07*,,,,,,,
+*S02E08*,,,,,,,
+*S02E09*,,,,,,,
+*S02E10*,,,,,,,
+*S01E00*,,,,,,,
+*S01E01*,,,,,,,
+*S01E02*,,,,,,,
+*S01E03*,,,,,,,
+*S01E04*,,,,,,,
+*S01E05*,,,,,,,
+*S01E06*,,,,,,,
+*S01E07*,,,,,,,
+*S01E08*,,,,,,,
+*S01E09*,,,,,,,
+*S01E10*,,,,,,,
+*S03E00*,,,,,,,
+*S03E01*,,,,,,,
+*S03E02*,,,,,,,
+*S03E03*,,,,,,,
+*S03E04*,,,,,,,
+*S03E05*,,,,,,,
+*S03E06*,,,,,,,
+*S03E07*,,,,,,,
+*S03E08*,,,,,,,
+*S03E09*,,,,,,,
+*S03E10*,,,,,,,
+*S04E00*,,,,,,,
+*S04E01*,,,,,,,
+*S04E02*,,,,,,,
+*S04E03*,,,,,,,
+*S04E04*,,,,,,,
+*S04E05*,,,,,,,
+*S04E06*,,,,,,,
+*S04E07*,,,,,,,
+*S04E08*,,,,,,,
+*S04E09*,,,,,,,
+*S04E10*,,,,,,,
+*S06E00*,,,,,,,
+*S06E01*,,,,,,,
+*S06E02*,,,,,,,
+*S06E03*,,,,,,,
+*S06E04*,,,,,,,
+*S06E05*,,,,,,,
+*S06E06*,,,,,,,
+*S06E07*,,,,,,,
+*S06E08*,,,,,,,
+*S06E09*,,,,,,,
+*S06E10*,,,,,,,
+*S07E00*,,,,,,,
+*S07E01*,,,,,,,
+*S07E02*,,,,,,,
+*S07E03*,,,,,,,
+*S07E04*,,,,,,,
+*S07E05*,,,,,,,
+*S07E06*,,,,,,,
+*S07E07*,,,,,,,
+*S07E08*,,,,,,,
+*S07E09*,,,,,,,
+*S07E10*,,,,,,,
+*S08E00*,,,,,,,
+*S08E01*,,,,,,,
+*S08E02*,,,,,,,
+*S08E03*,,,,,,,
+*S08E04*,,,,,,,
+*S08E05*,,,,,,,
+*S08E06*,,,,,,,
+*S08E07*,,,,,,,
+*S08E08*,,,,,,,
+*S08E09*,,,,,,,
+*S08E10*,,,,,,,
+*S09E00*,,,,,,,
+*S09E01*,,,,,,,
+*S09E02*,,,,,,,
+*S09E03*,,,,,,,
+*S09E04*,,,,,,,
+*S09E05*,,,,,,,
+*S09E06*,,,,,,,
+*S09E07*,,,,,,,
+*S09E08*,,,,,,,
+*S09E09*,,,,,,,
+*S09E10*,,,,,,,
